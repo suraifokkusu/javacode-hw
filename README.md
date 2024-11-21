@@ -41,6 +41,7 @@
 - #### Статус: :fire:  __в процессе__
 
 :link: [Перейти к модулю](./2.java-core)
+
 [//]: # (:x:)
 [//]: # (:white_check_mark:)
 [//]: # (:fire:)
@@ -50,6 +51,8 @@
 ## Полезные ссылки
 - [Документация по Java](https://docs.oracle.com/en/java/)
 - [Руководство по Maven](https://maven.apache.org/guides/index.html)
+- [Baeldung](https://www.baeldung.com/)
+- [Java Programming on GeeksforGeeks](https://www.geeksforgeeks.org/java/)
 
 ---
 ![Alt](https://repobeats.axiom.co/api/embed/03e1cbb66a26480b934cbe83b05a84fe65457036.svg "Repobeats analytics image")
