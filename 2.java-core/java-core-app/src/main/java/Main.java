@@ -22,20 +22,17 @@ public class Main {
         stringBuilderWithUndo.append("JavaCore again");
         System.out.println("3. Append -- " + stringBuilderWithUndo);
 
-        stringBuilderWithUndo.replace(4, 8, "Code");
-        System.out.println("4. Replace -- " + stringBuilderWithUndo);
-
         stringBuilderWithUndo.delete(9,14);
-        System.out.println("5. Delete -- " + stringBuilderWithUndo);
+        System.out.println("4. Delete -- " + stringBuilderWithUndo);
+
+        stringBuilderWithUndo.undo();
+        System.out.println("5. Undo -- " + stringBuilderWithUndo);
 
         stringBuilderWithUndo.undo();
         System.out.println("6. Undo -- " + stringBuilderWithUndo);
 
         stringBuilderWithUndo.undo();
         System.out.println("7. Undo -- " + stringBuilderWithUndo);
-
-        stringBuilderWithUndo.undo();
-        System.out.println("8. Undo -- " + stringBuilderWithUndo);
 
         System.out.println("///////////////// [ЗАДАНИЕ #2 LocalDateTimeFormatter] /////////////////");
         LocalDateTime currentTime = LocalDateTime.now();
