@@ -22,8 +22,8 @@ public class Main {
 
         printArray("initArray", initArray);
 
-        Filter addFive = o -> {
-            if (o instanceof Integer) {
+        Filter addFiveIfDividedByTwoWithoutRemainder = o -> {
+            if (o instanceof Integer && (Integer) o%2==0) {
                 return (Integer) o + 5;
             }
             return o;
@@ -36,8 +36,8 @@ public class Main {
             return o;
         };
 
-        Object[] resultArray = filter(initArray, addFive);
-        printArray("\nFilter (addFive)\nResult array", resultArray);
+        Object[] resultArray = filter(initArray, addFiveIfDividedByTwoWithoutRemainder);
+        printArray("\nFilter (addFiveIfDividedByTwoWithoutRemainder)\nResult array", resultArray);
 
         System.out.println("OR");
         System.out.println("initArrayOfStrings");
