@@ -11,6 +11,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-collection-app" />
         <module name="java-core-app" />
+        <module name="java-stream-api-app" />
       </profile>
     </annotationProcessing>
   </component>
