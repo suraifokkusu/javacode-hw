@@ -28,19 +28,37 @@
 
 
 ### [Модуль 1: Maven](./1.maven)
-- :computer: **Задание**: Разработка библиотеки для работы с геометрическими фигурами.
-  Решение конфликтов версий Maven.
+- :computer: **Задание**
 
+```
+1. Разработка библиотеки для работы с геометрическими фигурами.
+ 
+2. Решение конфликтов версий Maven.
+```
 :link: [Перейти к модулю](./1.maven)
 
 #### Статус: :white_check_mark:  __выполнено__
 
 ### [Модуль 2: Java core AQA](./2.java-core)
-- :computer: **Задание**: Изучить внутреннюю реализацию класса StringBuilder 
-и напишите свою с добавлением дополнительного метода - undo().
-- #### Статус: :fire:  __в процессе__
+- :computer: **Задание**
+
+```
+Изучить внутреннюю реализацию класса StringBuilder и напишите свою с добавлением дополнительного метода - undo().
+```
+
+#### Статус: :white_check_mark:  __выполнено__
 
 :link: [Перейти к модулю](./2.java-core)
+
+### [Модуль 3: Java collection](./3.java-collection)
+- :computer: **Задание**
+```
+1. Реализовать метод для фильтрации массива с использованием функции.
+2. Написать метод для подсчёта количества вхождений элементов массива с использованием коллекций.
+```
+#### Статус: :fire:  __в процессе__
+
+:link: [Перейти к модулю](./3.java-collection)
 
 [//]: # (:x:)
 [//]: # (:white_check_mark:)
@@ -52,7 +70,7 @@
 - [Документация по Java](https://docs.oracle.com/en/java/)
 - [Руководство по Maven](https://maven.apache.org/guides/index.html)
 - [Baeldung](https://www.baeldung.com/)
-- [Java Programming on GeeksforGeeks](https://www.geeksforgeeks.org/java/)
+- [Java Programming on GeeksForGeeks](https://www.geeksforgeeks.org/java/)
 
 ---
 ![Alt](https://repobeats.axiom.co/api/embed/03e1cbb66a26480b934cbe83b05a84fe65457036.svg "Repobeats analytics image")
