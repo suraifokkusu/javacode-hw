@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/2.java-core/java-core-app/pom.xml" />
+        <option value="$PROJECT_DIR$/3.java-collection/java-collection-app/pom.xml" />
       </list>
     </option>
   </component>
