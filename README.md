@@ -55,6 +55,7 @@
 #### Статус: :white_check_mark:  __выполнено__
 
 :link: [Перейти к папке курса](./2.java-core)
+
 ---
 ### [Курс 3: Java collection](./3.java-collection)
 - :computer: **Задание**
@@ -65,6 +66,7 @@
 #### Статус: :white_check_mark:  __выполнено__
 
 :link: [Перейти к папке курса](./3.java-collection)
+
 ---
 ### [Курс 4: Java Stream API](./4.java-stream-api)
 - :computer: **Задание**
